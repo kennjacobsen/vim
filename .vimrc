@@ -16,6 +16,9 @@ call vundle#end()
 colorscheme Tomorrow-Night-Bright
 set wildmode=list:longest,full
 
+set number
+highlight LineNr ctermfg=grey
+
 " vim airline always show status line
 set laststatus=2
 

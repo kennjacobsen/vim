@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/u0157500/Projects/kg_document_service'
+let g:netrw_dirhist_2='/Users/u0157500/Projects/kg_document_service/app'
+let g:netrw_dirhist_3='/Users/u0157500/Projects/kg_document_service/app/controllers'
+let g:netrw_dirhist_4='/Users/u0157500/Projects/kg_document_service'
+let g:netrw_dirhist_5='/Users/u0157500/Projects/kg_document_service/app'
+let g:netrw_dirhist_6='/Users/u0157500/Projects/kg_document_service/app/controllers'
+let g:netrw_dirhist_7='/Users/u0157500/Projects/kg_document_service'
+let g:netrw_dirhist_8='/Users/u0157500/Projects/kg_document_service/app'
+let g:netrw_dirhist_9='/Users/u0157500/Projects/kg_document_service/app/controllers'

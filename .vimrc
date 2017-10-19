@@ -19,6 +19,7 @@ set wildmode=list:longest,full
 
 set scrolloff=5               " vertical stay 5 lines from edge
 set sidescrolloff=5           " horizontal stay 5 characters from edge
+set tabstop=2
 
 set number
 highlight LineNr ctermfg=grey
